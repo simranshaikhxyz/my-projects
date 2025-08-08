@@ -1,5 +1,5 @@
 # My Python GUI Project
-A simple Python app that manages pet adoption.
+A simple Python app pet Shop.
 
 
 ## How to Run
@@ -613,4 +613,5 @@ password_entry.pack(pady=5)
 Button(root, text="Login", command=login, font=("Arial", 12, "bold"), bg="#D8BFD8", width=10).pack(pady=20)
 
 root.mainloop()
+
 
