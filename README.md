@@ -16,9 +16,23 @@ Features include adding, viewing, and managing pet details in a database.
 - Tkinter (GUI)  
 - SQLite (Database)
 
-**How to Run**
+# 2 Customized Graph Plotter
+
+A Python-based GUI tool for creating and customizing graphs easily.  
+Users can input data, choose graph types, and apply custom styles.
+
+---
+## 🛠 Technologies Used
+- Python
+- Tkinter (for GUI)
+- Matplotlib (for plotting graphs)
+
+---
+
+## 🚀 How to Run
 1. Install [Python 3.x](https://www.python.org/downloads/).
-2. Navigate to the `petshop.py` file.
-3. Run:
+2. Install the required library:
    ```bash
-   python petshop.py
+   pip install matplotlib
+   pip install tkinter
+
