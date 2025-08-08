@@ -1,3 +1,13 @@
+# My Python GUI Project
+A simple Python app that manages pet adoption.
+
+
+## How to Run
+1. Install Python 3.x
+2. Install required packages: `pip install -r requirements.txt`
+3. Run: `python main.py`
+
+
 from tkinter import ttk, messagebox
 from tkinter import *
 from tkcalendar import DateEntry
@@ -603,3 +613,4 @@ password_entry.pack(pady=5)
 Button(root, text="Login", command=login, font=("Arial", 12, "bold"), bg="#D8BFD8", width=10).pack(pady=20)
 
 root.mainloop()
+
