@@ -1,5 +1,5 @@
 # My Python Projects
-
+simran shaikh
 This repository contains my Python projects with GUI and database integration.  
 Each project includes code, documentation, and screenshots for easy understanding.
 
