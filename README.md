@@ -29,6 +29,18 @@ Users can input data, choose graph types, and apply custom styles.
 
 ---
 
+
+### 3. Prayer Management System  
+A Java Swing-based desktop application to manage prayers with real-time data integration.  
+Features include user login, tasbih counter, Asma-e-Husna, Namaz timings via API, Duas, Namaz Rakats, and Hadiths. The app supports Arabic text with English translation for easy understanding.
+
+**Technologies Used**  
+- Java Swing (GUI)  
+- Database integration  
+- API integration for real-time Namaz timings  
+
+---
+
 ## 🚀 How to Run
 1. Install [Python 3.x](https://www.python.org/downloads/).
 2. Install the required library:
