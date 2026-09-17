@@ -273,7 +273,7 @@ public class PrayerApp extends JFrame {
         return DriverManager.getConnection(
                 props.getProperty("db.url", "jdbc:mysql://localhost:3306/prayer_db"),
                 props.getProperty("db.user", "root"),
-                props.getProperty("db.password", "kingsman700")
+                props.getProperty("db.password", "")
         );
     }
 
